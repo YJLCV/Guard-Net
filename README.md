@@ -118,6 +118,4 @@ python ./main_coex.py \
 
 ## Acknowledgments
 
-Most of the code is borrowed from CoEx. We thank Antyanta Bangunharcana for his great works and repos. 
-
-Thanks to Antyanta Bangunharcana for open-sourcing his excellent work [CoEx]([antabangun/coex (github.com)](https://github.com/antabangun/coex)). Thanks to Gangwei Xu for open-sourcing his PyTorch implementation. 
+Thanks to Antyanta Bangunharcana for open-sourcing his excellent work [CoEx](https://github.com/antabangun/coex). Thanks to Gangwei Xu for open-sourcing his PyTorch implementation. 
