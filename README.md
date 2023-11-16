@@ -1,7 +1,4 @@
 # Guard-Net
-
-[TOC]
-
 ## Introduction
 
 ------
