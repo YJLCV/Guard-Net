@@ -91,7 +91,7 @@ In our setup, the dataset is organized as follows
     └── SceneFlow
     	├── flyingthings3d__frames_finalpass
         ├── flyingthings3d__disparity
-		├── driving__frames_finalpass
+	├── driving__frames_finalpass
         ├── driving__disparity
         ├── flyingthings3d_final
         ├── monkaa__frames_finalpass
