@@ -77,7 +77,6 @@ python ./save_disp_sceneflow.py \
 
 In our setup, the dataset is organized as follows
 ```
-../../data
 └── datasets
     ├── KITTI
     |   ├── 2012
