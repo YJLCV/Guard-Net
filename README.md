@@ -17,7 +17,7 @@
 
 ------
 
-The code of the paper Guard-Net. The original paper is currently under review.
+The code of the paper [Guard-Net](https://ieeexplore.ieee.org/abstract/document/10433888).
 
 ## Installation
 ------
