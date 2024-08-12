@@ -11,13 +11,14 @@
   - [SceneFlow](#sceneflow)
   - [KITTI](#kitti)
 - [Testing](#testing)
+- [Citation](#citation)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
 ------
 
-The code of the paper [Guard-Net](https://ieeexplore.ieee.org/abstract/document/10433888).
+The code of the paper [Guard-Net: Lightweight Stereo Matching Network via Global and Uncertainty-Aware Refinement for Autonomous Driving（IEEE TITS 2024）](https://ieeexplore.ieee.org/abstract/document/10433888).
 
 ## Installation
 ------
@@ -129,6 +130,23 @@ python ./test_sceneflow.py \
     --loadckpt SceneFlow Pre-trained Weights Path
 ```
 
-## Acknowledgments
+## Citation
+------
+If you find our work useful in your research, please consider citing our paper:
 
+```bibtex
+@article{liu2024Guard-Net,
+  title={Guard-Net: Lightweight Stereo Matching Network via Global and Uncertainty-Aware Refinement for Autonomous Driving},
+  author={Liu, Yujun and Zhang, Xiangchen and Luo, Yang and Hao, Qiaoqiao and Su, Jinhe and Cai, Guorong},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={25},
+  number={8},
+  pages={10260-10273},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
+## Acknowledgments
+------
 Thanks to Antyanta Bangunharcana for open-sourcing his excellent work [CoEx](https://github.com/antabangun/coex). Thanks to Gangwei Xu for open-sourcing his PyTorch implementation. 
