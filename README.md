@@ -124,7 +124,7 @@ python ./coex_kitti.py \
 Use the following command to test Guard-Net on SceneFlow
 
 ```bash
-python ./main_coex.py \
+python ./test_sceneflow.py \
     --datapath SceneFlow Path \
     --loadckpt SceneFlow Pre-trained Weights Path
 ```
